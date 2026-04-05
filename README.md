@@ -65,7 +65,7 @@ The model is trained once at server startup using `scikit-learn`'s built-in Iris
 
 ```bash
 git clone https://github.com/yourusername/CodeAlpha_IrisFlowerClassification.git
-cd iris-classifier/iris_web
+cd CodeAlpha_IrisFlowerClassification
 ```
 
 ### 2. (Optional) Create a virtual environment
